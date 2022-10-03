@@ -2,7 +2,7 @@
 Script/Tools untuk mengetahui Alamat Ip
 
 
-Cara Install Di termux
+Cara Install Di termux/pydroid
 
 $pkg update && pkg upgrade
 
