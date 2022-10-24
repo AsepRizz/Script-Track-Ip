@@ -6,6 +6,8 @@ Cara Install Di termux/pydroid
 
 $pkg update && pkg upgrade
 
+$pkg install python git
+
 $pip install bs4 cython mechanize
 
 $pip install requests rich
