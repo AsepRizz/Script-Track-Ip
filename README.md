@@ -1,8 +1,16 @@
 # Script-Track-Ip
-Script/Tools untuk mengetahui Alamat Ip
+Script/Tools untuk mengetahui Alamat Ip 
+Jaringan
 
+# Ngga Terlalu berguna
 
-Cara Install Di termux/pydroid
+# Alat
+  1.HP
+  2.Termux/Pydroid3
+  3.Temen(Biar Dikira hengker)
+  4.otak Bersih No cabul
+
+# Bahan Yg perlu diinstall
 
 $pkg update && pkg upgrade
 
@@ -16,4 +24,10 @@ $cd Script-Track-Ip
 
 $bash trackip
 
-Jangan Lupa Follow Ya😇😇😇
+# Kegunaan Tools/Script ini
+
+  1.Biar Kalian Tau lokasi sinyal kalian Berasal
+  2.agar kalian tahu IP kalian berapa
+  3.Buat nakutin orang juga bisa😏
+
+# Thanks For Myself
