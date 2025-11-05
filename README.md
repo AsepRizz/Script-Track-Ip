@@ -3,12 +3,9 @@
 # Alat
   1.HP
 
-  2.Termux/Pydroid3
+  2.Termux
 
-  3.Temen(Biar Kalian Dikira hengker)
-
-  4.otak Bersih No cabul
-
+  3.kopi
 # Bahan Yg perlu diinstall
 
 $pkg update && pkg upgrade
@@ -27,8 +24,8 @@ $bash trackip
 
   1.Biar Kalian Tau lokasi sinyal kalian Berasal
 
-  2.agar kalian tahu IP kalian berapa
+  2.biar kalian tahu IP kalian berapa
 
-  3.Buat nakutin orang juga bisa😏
+  3.bukan buat lacak orang ya heker bego
 
 # Thanks For Myself
